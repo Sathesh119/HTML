@@ -1,0 +1,55 @@
+div {
+    width: 200px;
+    height: 200px;
+    background-color: #00b4d8;
+}
+
+h1 {
+    background-color: #fca311;
+    width: 100px;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+}
+
+#one {
+    background-color: #70d6ff;
+    border-width: 5px;
+    border-color: yellow;
+    border-style: solid;
+    box-sizing: border-box;
+
+}
+
+#Two {
+    border-width: 10px;
+    background-color: #ff70a6;
+    border-color: #2a9d8f;
+    border-style: dashed;
+    border-left-color: #ff70a6;
+    border-bottom-style: inset;
+}
+
+
+#Three {
+    border-width: 7px;
+    border-color: #fca311;
+    border-style: groove;
+    border-left-color: #219ebc;
+    background-color: #ff9770;
+    border-radius: 10px;
+}
+
+#yes {
+    background-color: #588157;
+    padding: 10px 15px;
+    margin: 10px;
+    margin color: yellow;
+}
+
+#no {
+    background-color: #ff70a6;
+
+    padding: 10px 15px;
+}

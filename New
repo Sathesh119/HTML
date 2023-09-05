@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<head>
+
+<body>
+    <p>This is a sample HTML page
+        follow the steps below.
+    </p>
+    <h1>HTML page</h1>
+    <h2>Chennai</h2>
+    <h2>COIMBATORE</h2>
+    <h2>Madurai</h2>
+    <h2>Salem</h2>
+
+    <input type="search">
+    <form action="./search"><label for="search"=Enter your text here</form>
+</body>

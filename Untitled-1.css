@@ -1,0 +1,16 @@
+* {
+    color: #ee4266;
+    background-color: #dddf00;
+}
+
+button {
+    background-color: rgb(25, 239, 239);
+}
+
+input {
+    background-color: #bde0fe;
+}
+
+#clickhere {
+    background-color: black;
+}

@@ -1,0 +1,36 @@
+h1 {
+    color: #1FAF82;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 300;
+
+    font-family: 'Lucida Sans';
+    font-style: italic;
+    letter-spacing: 5;
+}
+
+* {
+    background-color: #ffe5ec;
+}
+
+h3 {
+    color: #6600ff;
+    text-align: justify;
+
+}
+
+p {
+    font-weight: 600;
+    text-align: justify;
+    color: rgb(0, 0, 0) line-height: 1.2;
+    font-size: small;
+}
+
+input {
+    background-color: #ffb3ff;
+}
+
+#submit {
+    background-color: darkgoldenrodf;
+    color: crimson;
+}
